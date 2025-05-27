@@ -1,0 +1,11 @@
+{
+  "name": "phi-fibonacci",
+  "version": "1.0.0",
+  "description": "Tarea programada 1",
+  "main": "fib.js",
+  "scripts": {
+    "start": "node fib.js"
+  },
+  "author": "FI22024693",
+  "license": "ISC"
+}
