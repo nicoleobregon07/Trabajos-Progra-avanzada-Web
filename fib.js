@@ -1,3 +1,5 @@
+
+/////////////////////////////////////////////////////
 const readline = require('readline');
 
 const entrada = readline.createInterface({
@@ -28,7 +30,7 @@ function mostrarResultados(n) {
   console.log(`\nFib(${n}) = ${secuencia[n]}`);
   console.log(`Fib(${n - 1}) = ${secuencia[n - 1]}`);
 }
-
+///////////////////////////////////////////////////////////
 entrada.question('Ingrese un número entre 2 y 45: ', (valor) => {
   const numero = parseInt(valor);
 

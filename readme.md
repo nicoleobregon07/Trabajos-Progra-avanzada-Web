@@ -1,7 +1,6 @@
 # Tarea Programada 1 
 
-Autor: FI22024693  
-Curso: Programación Avanzada en Web  
+Autora: FI22024693   
 Estudiante: Nicole Obregon Munguia
 Profesor: Luis Andrés Rojas Matey
 
